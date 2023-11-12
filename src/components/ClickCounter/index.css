@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.counter-class {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #ffffff;
+
+  background-size: cover;
+  height: 100vh;
+}
+.counter-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: #f1f5f8;
+  width: 500px;
+  height: 500px;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.count-class {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #c20a72;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #2d3a35;
+}
+
+.button {
+  border: none;
+  background-color: #007bff;
+  cursor: pointer;
+  display: inline;
+}
